@@ -1,5 +1,5 @@
 FROM dyne/devuan:ascii
-LABEL maintainer="Micah P. Dombrowski <mpdwibble@gmail.com> \
+LABEL maintainer="Micah P. Dombrowski <mpdwibble@gmail.com>" \
       homepage="https://github.com/WibbletheDuck/devuan-postfix"
 
 RUN apt-get update \
